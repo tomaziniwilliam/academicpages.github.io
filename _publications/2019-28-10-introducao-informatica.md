@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Doc 1"
 collection: publications
 permalink: /publication/2019-28-10-introducao-informatica
 excerpt: 'Informática Básica.'
