@@ -1,5 +1,5 @@
 ---
-title: "Doc 1"
+title: "Paper Title Intro. Informática"
 collection: publications
 permalink: /publication/2019-28-10-introducao-informatica
 excerpt: 'Informática Básica.'
@@ -11,5 +11,3 @@ paperurl: 'http://tomaziniwilliam.github.io/pages/files/introInformatica.pdf'
 
 
 [Download doc](http://tomaziniwilliam.github.io/pages/files/introInformatica.pdf)
-
-
