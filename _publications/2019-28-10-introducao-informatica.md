@@ -1,6 +1,6 @@
 ---
 title: "Doc 1"
-collection:Docs publicados
+collection:publicados
 permalink: /publication/2019-28-10-introducao-informatica
 excerpt: 'Informática Básica.'
 date: 2019-28-11
