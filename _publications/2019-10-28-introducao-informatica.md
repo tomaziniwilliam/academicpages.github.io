@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Intro. Informática"
 collection: publications
-permalink: /publication/2019-28-10-introducao-informatica
+permalink: /publication/2019-10-28-introducao-informatica
 excerpt: 'Informática Básica.'
 date: 2019-11-28
 venue: 'Web'
