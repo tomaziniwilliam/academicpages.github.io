@@ -10,6 +10,6 @@ paperurl: 'http://tomaziniwilliam.github.io/pages/files/introInformatica.pdf'
 ---
 
 
-[Download paper here](http://tomaziniwilliam.github.io/pages/files/introInformatica.pdf)
+[Download doc](http://tomaziniwilliam.github.io/pages/files/introInformatica.pdf)
 
 
