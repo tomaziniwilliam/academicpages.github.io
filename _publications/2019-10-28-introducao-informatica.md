@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Intro. Informática"
-collection: publications
+title: "Informática básica"
+collection: publicação
 permalink: /publication/2019-10-28-introducao-informatica
 excerpt: 'Informática Básica.'
 date: 2019-11-28
